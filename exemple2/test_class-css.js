@@ -30,8 +30,8 @@ function restaurer() {
 
 
 $liste.onclick = selectionne;
-$supprimer.onclick = supprimer();
-$restaurer.onclick = restaurer();
+$supprimer.onclick = supprimer;
+$restaurer.onclick = restaurer;
 
 
 
